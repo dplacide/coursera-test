@@ -8,6 +8,7 @@ body {
 /** HEADER **/
 #header-nav {
   background-color: slategrey;
+  clear: both;
   border-radius: 0;
   border: 0;
 }
